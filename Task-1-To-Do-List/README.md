@@ -4,11 +4,7 @@
 A simple and efficient To-Do List application built using Python to help manage daily tasks.
 
  # Project Video
-
-
 https://github.com/user-attachments/assets/5b9ebc37-c483-4514-8997-d73a0b138669
-
-https://github.com/user-attachments/assets/6654379f-97dc-4bc6-b9d1-49ee342301eb
 
 # Features
 1. Add new tasks
