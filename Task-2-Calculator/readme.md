@@ -16,5 +16,5 @@ https://github.com/user-attachments/assets/015c917a-ff22-4042-b3c7-e824973db6a0
 
 # HOW TO RUN
 * Clone the repository.
-* Navigate to the TASK1 : CALCULATOR folder.
+* Navigate to the Task-2-Calculator folder.
 * Run python CALCULATOR.py.
